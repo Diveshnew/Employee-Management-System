@@ -1,0 +1,49 @@
+# Byte-compiled / cache / virtual environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# macOS specific
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.swp
+*.tmp
+
+# Images and user uploads (optional)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Environment variables or config (if you use them)
+.env
+
+# Database dump or credentials (if generated)
+*.sql
+*.db
+
+# System-specific files
+Thumbs.db
