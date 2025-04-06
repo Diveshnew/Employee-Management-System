@@ -33,10 +33,10 @@ ENV/
 *.tmp
 
 # Images and user uploads (optional)
-*.png
-*.jpg
-*.jpeg
-*.gif
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
 
 # Environment variables or config (if you use them)
 .env
